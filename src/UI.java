@@ -46,19 +46,16 @@ class UI extends JPanel {
             }
         });
 
-        // put the buttons into the button panel:
         b.setLayout(new FlowLayout());
         b.add(runButton);
         b.add(pauseButton);
         b.add(resetButton);
 
-        // put the Table canvas and the button panel into the UI:
         setLayout(new BoxLayout(this, BoxLayout.Y_AXIS));
         setBorder(BorderFactory.createEmptyBorder(externalBorder, externalBorder, externalBorder, externalBorder));
         add(t);
         add(b);
 
-        // put the UI into the Frame or Applet:
         pane.getContentPane().add(this);
         root = getRootPane();
         root.setDefaultButton(runButton);

@@ -76,8 +76,10 @@
       <file leaf-file-name="Table.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Table.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="1005">
-              <folding />
+            <state line="56" column="41" selection-start="1861" selection-end="1861" vertical-scroll-proportion="0.0" vertical-offset="528" max-vertical-offset="1005">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,7 +96,7 @@
       <file leaf-file-name="UI.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1065">
+            <state line="57" column="0" selection-start="1790" selection-end="1790" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="885">
               <folding />
             </state>
           </provider>
@@ -103,16 +105,16 @@
       <file leaf-file-name="Coordinator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Coordinator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="38" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="675">
+            <state line="16" column="38" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Philospher.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Philospher.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Philospher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="49" selection-start="1792" selection-end="1792" vertical-scroll-proportion="0.51068884" vertical-offset="700" max-vertical-offset="1635">
+            <state line="61" column="49" selection-start="1792" selection-end="1792" vertical-scroll-proportion="-16.339285" vertical-offset="0" max-vertical-offset="1635">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,19 +122,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GroupProject.iml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GroupProject.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fork.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Fork.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Fork.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="20" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="810">
+            <state line="29" column="20" selection-start="588" selection-end="588" vertical-scroll-proportion="0.9119497" vertical-offset="0" max-vertical-offset="810">
               <folding />
             </state>
           </provider>
@@ -150,12 +143,12 @@
       <list>
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/ResetException.java" />
-        <option value="$PROJECT_DIR$/src/UI.java" />
-        <option value="$PROJECT_DIR$/src/Table.java" />
         <option value="$PROJECT_DIR$/src/Dining.java" />
         <option value="$PROJECT_DIR$/src/Fork.java" />
         <option value="$PROJECT_DIR$/src/Coordinator.java" />
         <option value="$PROJECT_DIR$/src/Philospher.java" />
+        <option value="$PROJECT_DIR$/src/UI.java" />
+        <option value="$PROJECT_DIR$/src/Table.java" />
       </list>
     </option>
   </component>
@@ -448,7 +441,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -466,7 +459,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17349927" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17349927" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25443786" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -506,7 +499,9 @@
     <entry file="file://$PROJECT_DIR$/src/Table.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="0" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="1005">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -591,20 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1065">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Table.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Dining.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="49" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0" vertical-offset="7" max-vertical-offset="600">
@@ -612,16 +593,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ResetException.java">
+    <entry file="file://$PROJECT_DIR$/src/UI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="40" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Fork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="20" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="810">
+        <state line="57" column="0" selection-start="1790" selection-end="1790" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="885">
           <folding />
         </state>
       </provider>
@@ -633,12 +607,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Philospher.java">
+    <entry file="file://$PROJECT_DIR$/src/Table.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="49" selection-start="1792" selection-end="1792" vertical-scroll-proportion="0.51068884" vertical-offset="700" max-vertical-offset="1635">
+        <state line="56" column="41" selection-start="1861" selection-end="1861" vertical-scroll-proportion="0.0" vertical-offset="528" max-vertical-offset="1005">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ResetException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="40" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Philospher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="49" selection-start="1792" selection-end="1792" vertical-scroll-proportion="-16.339285" vertical-offset="0" max-vertical-offset="1635">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Fork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="20" selection-start="588" selection-end="588" vertical-scroll-proportion="0.9119497" vertical-offset="0" max-vertical-offset="810">
+          <folding />
         </state>
       </provider>
     </entry>
