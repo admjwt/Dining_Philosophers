@@ -54,12 +54,12 @@ class Philosopher extends Thread {
     }
 
 
-    private static final double FUDGE = 0.2;
+    private static final double delay = 0.2;
     private void delay(double secs) throws ResetException {
         double ms = 1000 * secs;
-        int window = (int) (2.0 * ms * FUDGE);
+        int window = (int) (2.0 * ms * delay);
         int add_in = rand.nextInt() % window;
-        int original_duration = (int) ((1.0-FUDGE) * ms + add_in);
+        int original_duration = (int) ((1.0-delay) * ms + add_in);
         int duration = original_duration;
         for (;;) {
             try {
